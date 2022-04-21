@@ -25,6 +25,24 @@ const Courses = [{
     course2: 'CSS',
     course3: "Javascript",
     price: 18000
+},{
+    id: "4",
+    title: "Ethic Hacking",
+    image: require('../../assets/course/eth.jpg'),
+    description : "Description of the course",
+    course1: "Mobile and toolkit",
+    course2: 'CSS',
+    course3: "Javascript",
+    price: 18000
+},{
+    id: "5",
+    title: "Hybrid Development",
+    image: require('../../assets/course/coding.jpg'),
+    description : "Description of the course",
+    course1: "Mobile and toolkit",
+    course2: 'CSS',
+    course3: "Javascript",
+    price: 18000
 }]
 
 export default Courses;
