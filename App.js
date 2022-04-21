@@ -1,7 +1,7 @@
 import React from 'react'
 import Home from './src/screens/Home';
 import About from './src/screens/About';
-import Courses from './src/screens/Courses';
+import Courses from './src/screens/Course';
 import Contact from './src/screens/Contact';
 import UserData from './src/screens/UserData';
 
